@@ -32,6 +32,7 @@
     /// otherwise it will do merge stuff
     /// https://github.com/microsoft/vscode/issues/174198 
     "git.rebaseWhenSync": true,
+    "scm.showHistoryGraph": false,
     
     /// Languages & Tools
     "files.associations": {
