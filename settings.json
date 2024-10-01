@@ -16,7 +16,7 @@
     "explorer.compactFolders": false,
     "workbench.tree.indent": 16,
     // Format & Autosave
-    "files.autoSave": "onWindowChange",
+    "files.autoSave": "onFocusChange",
     // Font
     "terminal.integrated.fontFamily": "Fira Code",
     "editor.fontFamily": "Fira Code",
